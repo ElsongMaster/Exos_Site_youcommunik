@@ -55,9 +55,6 @@ ul {
 }
 
 header nav {
-  /* position: absolute;
-  right: 5px; */
-  /* border: 2px solid red; */
   height: max-content;
   width: fit-content;
   height: 100px;
@@ -72,7 +69,6 @@ nav li > img {
 }
 header ul {
   display: flex;
-  /* border: 2px solid green; */
   padding: 0;
   margin: 0;
   width: fit-content;
@@ -115,7 +111,6 @@ li.active > a {
 
 .package-img {
   width: max-content;
-  /* border: 2px solid salmon; */
   width: 30%;
   display: flex;
   justify-content: center;
@@ -126,7 +121,6 @@ li.active > a {
 }
 
 .box-text {
-  /* border: 2px solid rgb(57, 102, 104); */
   width: 70%;
   color: white;
   display: flex;
@@ -140,12 +134,10 @@ li.active > a {
 }
 .box-text h1 {
   font-size: 50px;
-  /* border: 2px solid rgb(95, 44, 44); */
   margin: 0;
 }
 
 .box-text p {
-  /* border: 2px solid rgb(36, 17, 17); */
   font-size: 30px;
   margin-top: 10px;
 }
@@ -157,14 +149,12 @@ li.active > a {
 .sous-section_contenu {
   display: flex;
   height: 350px;
-  /* border: 2px solid red; */
 }
 
 .sous-section a {
   color: rgb(55, 67, 84);
 }
 .img-section {
-  /* border: 2px solid rgb(90, 148, 98); */
   width: 40%;
   display: flex;
   justify-content: center;
@@ -179,7 +169,6 @@ li.active > a {
 .sous-section_text {
   display: flex;
   flex-direction: column;
-  /* border: 2px solid rgb(51, 77, 92); */
   width: 80%;
 }
 
@@ -193,11 +182,9 @@ li.active > a {
   width: 100%;
   height: 50%;
   padding: 0;
-  /* border: 2px solid rgb(238, 224, 146); */
 }
 .sous-section_text h1 {
   font-size: 2.7em;
-  /* border: 2px solid rosybrown; */
   padding: 0 35px;
   margin: 0;
   height: fit-content;
@@ -207,14 +194,12 @@ li.active > a {
 .sous-section_text .container-paragraphe {
   height: 100%;
   font-size: 17px;
-  /* border: 2px solid blue; */
   display: flex;
   flex-direction: column;
   padding-top: 2%;
   padding-left: 10%;
 }
 .sous-section_text p {
-  /* border: 2px solid rgb(46, 44, 27); */
   margin: 0;
   line-height: 1.5;
   margin-bottom: 10px;
@@ -222,7 +207,6 @@ li.active > a {
 }
 
 .section-footer {
-  /* border: 2px solid rgb(95, 41, 88); */
   background-color: rgb(234, 227, 214);
 }
 
@@ -254,7 +238,6 @@ footer * {
 
 .footer-section {
   width: 100%;
-  /* border: 2px solid rgb(36, 17, 17); */
   display: flex;
   justify-content: center;
 }
@@ -263,7 +246,6 @@ footer * {
   flex-direction: column;
   width: 80%;
   padding: 0;
-  /* border: 2px solid royalblue; */
 }
 
 .footer-section > div > * {
@@ -273,7 +255,6 @@ footer * {
 .footer-img,
 .footer-section .container-title {
   display: flex;
-  /* border: 2px solid rgb(90, 148, 98); */
 }
 
 .footer-img {
